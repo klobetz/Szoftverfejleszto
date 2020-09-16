@@ -1,0 +1,14 @@
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\bin\Debug\1_nap.exe.config
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\bin\Debug\1_nap.exe
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\bin\Debug\1_nap.pdb
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\obj\Debug\1_nap.csprojAssemblyReference.cache
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\obj\Debug\1_nap.csproj.CoreCompileInputs.cache
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\obj\Debug\1_nap.exe
+D:\programozás\Szoftverfejleszto\szoftverfejleszto\1_nap\obj\Debug\1_nap.pdb
+D:\programozás\Szoftverfejleszto\Github\1_nap\bin\Debug\1_nap.exe.config
+D:\programozás\Szoftverfejleszto\Github\1_nap\bin\Debug\1_nap.exe
+D:\programozás\Szoftverfejleszto\Github\1_nap\bin\Debug\1_nap.pdb
+D:\programozás\Szoftverfejleszto\Github\1_nap\obj\Debug\1_nap.csprojAssemblyReference.cache
+D:\programozás\Szoftverfejleszto\Github\1_nap\obj\Debug\1_nap.csproj.CoreCompileInputs.cache
+D:\programozás\Szoftverfejleszto\Github\1_nap\obj\Debug\1_nap.exe
+D:\programozás\Szoftverfejleszto\Github\1_nap\obj\Debug\1_nap.pdb
