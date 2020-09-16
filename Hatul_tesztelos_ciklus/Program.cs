@@ -16,7 +16,7 @@ namespace Hatul_tesztelos_ciklus
             int szam;
 
             do
-            {
+            {//ez a kódblokk ismétlődik
                 Console.WriteLine("Hány órakkor kelsz fel?");
                 valasz = Console.ReadLine();
                 
