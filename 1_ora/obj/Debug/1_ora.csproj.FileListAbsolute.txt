@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\bin\Debug\1_ora.exe.config
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\bin\Debug\1_ora.exe
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\bin\Debug\1_ora.pdb
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\obj\Debug\1_ora.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\obj\Debug\1_ora.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\obj\Debug\1_ora.exe
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\1_ora\obj\Debug\1_ora.pdb

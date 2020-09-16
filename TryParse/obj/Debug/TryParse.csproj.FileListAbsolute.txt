@@ -1,0 +1,6 @@
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\TryParse\bin\Debug\TryParse.exe.config
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\TryParse\bin\Debug\TryParse.exe
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\TryParse\bin\Debug\TryParse.pdb
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\TryParse\obj\Debug\TryParse.exe
+D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\TryParse\obj\Debug\TryParse.pdb

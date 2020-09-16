@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ora", "1_ora\1_ora.csproj", "{3E1E98F4-ACBD-416C-9A13-A5CFAF88AC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ora", "2_ora\2_ora.csproj", "{5ED7B9DA-6CA1-496D-8E50-EA275627D357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0909_hazi", "0909_hazi\0909_hazi\0909_hazi.csproj", "{C6646508-8AA7-4339-A8F0-5D1285A017B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{C9C327B6-C57A-4C9E-859C-283EC0FA06FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eloltesztelos_ciklus", "eloltesztelos_ciklus\eloltesztelos_ciklus.csproj", "{ED28CA86-486A-404A-896E-A662E3CB625D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hatul_tesztelos_ciklus", "Hatul_tesztelos_ciklus\Hatul_tesztelos_ciklus.csproj", "{E5C1354F-03E8-4443-B79C-EAB381E9713D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1E98F4-ACBD-416C-9A13-A5CFAF88AC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1E98F4-ACBD-416C-9A13-A5CFAF88AC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1E98F4-ACBD-416C-9A13-A5CFAF88AC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1E98F4-ACBD-416C-9A13-A5CFAF88AC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED7B9DA-6CA1-496D-8E50-EA275627D357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED7B9DA-6CA1-496D-8E50-EA275627D357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED7B9DA-6CA1-496D-8E50-EA275627D357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED7B9DA-6CA1-496D-8E50-EA275627D357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6646508-8AA7-4339-A8F0-5D1285A017B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6646508-8AA7-4339-A8F0-5D1285A017B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6646508-8AA7-4339-A8F0-5D1285A017B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6646508-8AA7-4339-A8F0-5D1285A017B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C327B6-C57A-4C9E-859C-283EC0FA06FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C327B6-C57A-4C9E-859C-283EC0FA06FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C327B6-C57A-4C9E-859C-283EC0FA06FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C327B6-C57A-4C9E-859C-283EC0FA06FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED28CA86-486A-404A-896E-A662E3CB625D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED28CA86-486A-404A-896E-A662E3CB625D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED28CA86-486A-404A-896E-A662E3CB625D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED28CA86-486A-404A-896E-A662E3CB625D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C1354F-03E8-4443-B79C-EAB381E9713D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C1354F-03E8-4443-B79C-EAB381E9713D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C1354F-03E8-4443-B79C-EAB381E9713D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C1354F-03E8-4443-B79C-EAB381E9713D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD5372A9-D81C-4AA3-B1A4-7380265ED26E}
+	EndGlobalSection
+EndGlobal
