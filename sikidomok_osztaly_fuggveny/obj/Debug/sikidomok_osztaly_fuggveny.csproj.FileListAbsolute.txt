@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\bin\Debug\sikidomok_osztaly_fuggveny.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\bin\Debug\sikidomok_osztaly_fuggveny.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\bin\Debug\sikidomok_osztaly_fuggveny.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\obj\Debug\sikidomok_osztaly_fuggveny.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\obj\Debug\sikidomok_osztaly_fuggveny.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\obj\Debug\sikidomok_osztaly_fuggveny.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\sikidomok_osztaly_fuggveny\obj\Debug\sikidomok_osztaly_fuggveny.csprojAssemblyReference.cache

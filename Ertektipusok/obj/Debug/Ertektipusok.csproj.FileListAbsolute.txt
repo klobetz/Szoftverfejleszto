@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\bin\Debug\Ertektipusok.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\bin\Debug\Ertektipusok.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\bin\Debug\Ertektipusok.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\obj\Debug\Ertektipusok.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\obj\Debug\Ertektipusok.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\obj\Debug\Ertektipusok.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ertektipusok\obj\Debug\Ertektipusok.pdb

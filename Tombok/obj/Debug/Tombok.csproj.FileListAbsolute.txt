@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\bin\Debug\Tombok.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\bin\Debug\Tombok.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\bin\Debug\Tombok.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\obj\Debug\Tombok.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\obj\Debug\Tombok.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\obj\Debug\Tombok.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Tombok\obj\Debug\Tombok.pdb

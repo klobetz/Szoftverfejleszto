@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\bin\Debug\Dinamikus_tomb_Lista.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\bin\Debug\Dinamikus_tomb_Lista.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\bin\Debug\Dinamikus_tomb_Lista.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\obj\Debug\Dinamikus_tomb_Lista.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\obj\Debug\Dinamikus_tomb_Lista.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\obj\Debug\Dinamikus_tomb_Lista.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Dinamikus_tomb_Lista\obj\Debug\Dinamikus_tomb_Lista.pdb
