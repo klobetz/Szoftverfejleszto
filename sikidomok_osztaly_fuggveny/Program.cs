@@ -26,12 +26,23 @@ namespace sikidomok_osztaly_fuggveny
             //Háromszö
             var haromszog = new Haromszog(alap: 6, magassag: 5);
             Console.WriteLine($"A háromszög területe: {haromszog.Terulet()}");
-            
+
             //adjuk össze a területeket
-
-
+            //var teruletosszeg = negyzet.Terulet() + kor.Terulet() + haromszog.Terulet(); //így nincs hibaüzenet!(double)
+            var teruletosszeg = negyzet.Terulet();
+            teruletosszeg = teruletosszeg + kor.Terulet();
+            teruletosszeg += haromszog.Terulet();
+            
+            Console.WriteLine($"A területek összege: {teruletosszeg} m2");
 
             //ugyanez szebben!
+
+
+
+
+
+
+
 
 
 
