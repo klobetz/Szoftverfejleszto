@@ -2,7 +2,7 @@
 
 namespace sikidomok_osztaly_fuggveny
 {
-    public class Haromszog
+    public class Haromszog : ISikidomok
     {
         private int alap;
         private int magassag;

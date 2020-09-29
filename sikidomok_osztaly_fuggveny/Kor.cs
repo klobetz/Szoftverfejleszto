@@ -2,7 +2,7 @@
 
 namespace sikidomok_osztaly_fuggveny
 {
-    public class Kor
+    public class Kor : ISikidomok
     {
         private int sugar;
 

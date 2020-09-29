@@ -32,14 +32,36 @@ namespace sikidomok_osztaly_fuggveny
             var teruletosszeg = negyzet.Terulet();
             teruletosszeg = teruletosszeg + kor.Terulet();
             teruletosszeg += haromszog.Terulet();
-            
+
             Console.WriteLine($"A területek összege: {teruletosszeg} m2");
 
+            
+            
+            
+            
             //ugyanez szebben!
 
+            //Azt néztük meg, hogy hogyan tudunk különböző osztályoknak bizonyos tulajdonságait közösíteni
+
+            var sikidomLista = new List<ISikidomok>();
+
+            sikidomLista.Add(negyzet);
+            sikidomLista.Add(kor);
+            sikidomLista.Add(haromszog);
 
 
 
+            //var osszeg = 0;
+            //foreach (var item in sikidomLista)
+            //{
+            //    osszeg += item.Terulet();
+            //}
+            //Console.WriteLine($"A területek összege máskép: {osszeg}");
+
+            //var osszeg = sikidomLista.Sum(x=>x.Terulet());
+            //Console.WriteLine($"A területek összege Linq-val: {osszeg} ");
+
+            Console.WriteLine($"A területek összege Linq-val: {sikidomLista.Sum(x => x.Terulet())} ");
 
 
 
