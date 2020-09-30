@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinamikus_tomb_Lista", "Din
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sikidomok_osztaly_fuggveny", "sikidomok_osztaly_fuggveny\sikidomok_osztaly_fuggveny.csproj", "{9F702B45-2980-41D6-9BD7-9D4A7E1D1793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_feltolt", "lista_feltolt\lista_feltolt.csproj", "{FC43B2FC-7A5D-4486-9428-E0D67180B260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ermehamistas", "Ermehamistas\Ermehamistas.csproj", "{2DC471AB-BED3-4D19-B4C8-3EC7CAA6C266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{9F702B45-2980-41D6-9BD7-9D4A7E1D1793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F702B45-2980-41D6-9BD7-9D4A7E1D1793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F702B45-2980-41D6-9BD7-9D4A7E1D1793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC43B2FC-7A5D-4486-9428-E0D67180B260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC43B2FC-7A5D-4486-9428-E0D67180B260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC43B2FC-7A5D-4486-9428-E0D67180B260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC43B2FC-7A5D-4486-9428-E0D67180B260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC471AB-BED3-4D19-B4C8-3EC7CAA6C266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC471AB-BED3-4D19-B4C8-3EC7CAA6C266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC471AB-BED3-4D19-B4C8-3EC7CAA6C266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC471AB-BED3-4D19-B4C8-3EC7CAA6C266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

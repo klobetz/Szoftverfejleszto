@@ -6,7 +6,7 @@ namespace sikidomok_osztaly_fuggveny
     /// <summary>
     /// ez azért jtt létre így mert (var negyzet = new Negyzet(oldalhossz: 4)) igy deklaráltuk a fő programban
     /// </summary>
-    public class Negyzet : ISikidomok //trejött az osztály
+    public class Negyzet : ISikidomok //létrejött az osztály
     {
         private int oldalhossz;
 

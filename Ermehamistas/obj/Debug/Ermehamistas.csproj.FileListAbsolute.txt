@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\bin\Debug\Ermehamistas.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\bin\Debug\Ermehamistas.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\bin\Debug\Ermehamistas.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\obj\Debug\Ermehamistas.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\obj\Debug\Ermehamistas.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\obj\Debug\Ermehamistas.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Ermehamistas\obj\Debug\Ermehamistas.pdb

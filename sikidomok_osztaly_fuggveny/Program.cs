@@ -49,7 +49,15 @@ namespace sikidomok_osztaly_fuggveny
             sikidomLista.Add(kor);
             sikidomLista.Add(haromszog);
 
+            //for (int i = 0; i < 50; i++)
+            //{
+            //    var negyzet1 = new Negyzet(i); //itt hozza létre 50*
+            //   sikidomLista.Add(negyzet1);    //itt meg beleteszi 50*
 
+            //    var kor1 = new Kor(i);
+            //    sikidomLista.Add(kor1);
+
+            //}
 
             //var osszeg = 0;
             //foreach (var item in sikidomLista)
