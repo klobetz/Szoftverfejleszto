@@ -1,0 +1,14 @@
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\bin\Debug\Plane_ENG.exe.config
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\bin\Debug\Plane_ENG.exe
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\bin\Debug\Plane_ENG.pdb
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\obj\Debug\Plane_ENG.csprojAssemblyReference.cache
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\obj\Debug\Plane_ENG.csproj.CoreCompileInputs.cache
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\obj\Debug\Plane_ENG.exe
+D:\programozás\Szoftverfejleszto\Tananyag_Szoftveresre\Plane_ENG\obj\Debug\Plane_ENG.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\bin\Debug\Plane_ENG.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\bin\Debug\Plane_ENG.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\bin\Debug\Plane_ENG.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\obj\Debug\Plane_ENG.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\obj\Debug\Plane_ENG.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\obj\Debug\Plane_ENG.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Plane_ENG\obj\Debug\Plane_ENG.pdb

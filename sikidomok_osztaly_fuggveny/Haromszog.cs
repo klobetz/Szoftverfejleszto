@@ -13,7 +13,7 @@ namespace sikidomok_osztaly_fuggveny
             this.magassag = magassag;
         }
 
-        public int Terulet()
+        public double Terulet()
         {
             return (alap*magassag)/2;
         }

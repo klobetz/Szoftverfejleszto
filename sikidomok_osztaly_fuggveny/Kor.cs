@@ -11,9 +11,9 @@ namespace sikidomok_osztaly_fuggveny
             this.sugar = sugar;
         }
 
-        public int Terulet()
+        public double Terulet()
         {
-            return (int)(sugar * sugar * Math.PI);
+            return sugar * sugar * Math.PI;
         }
     }
 }

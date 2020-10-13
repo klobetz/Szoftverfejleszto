@@ -2,6 +2,6 @@
 {
     public interface ISikidomok
     {
-       int Terulet();
+       double Terulet();
     }
 }

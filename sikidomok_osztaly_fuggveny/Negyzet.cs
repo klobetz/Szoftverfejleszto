@@ -17,7 +17,7 @@ namespace sikidomok_osztaly_fuggveny
         }
 
         //itt létrejött a terület föggvény internal cere public-ra object cere int mert egész számot hívunk static töröl
-        public int Terulet()
+        public double Terulet()
         {
             //visszatérési érték: a return utasítással
             //return this.oldalhossz * this.oldalhossz;

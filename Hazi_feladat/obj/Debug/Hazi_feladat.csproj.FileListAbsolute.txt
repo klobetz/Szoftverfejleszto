@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\bin\Debug\Hazi_feladat.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\bin\Debug\Hazi_feladat.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\bin\Debug\Hazi_feladat.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\obj\Debug\Hazi_feladat.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\obj\Debug\Hazi_feladat.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\obj\Debug\Hazi_feladat.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hazi_feladat\obj\Debug\Hazi_feladat.pdb

@@ -14,7 +14,7 @@ namespace Ermehamistas
             //var erme = (Erme)(new HamisErme());
             //Erme erme = new HamisErme();
             
-            CsinaldFeldobas(erme);
+            CsinaldFeldobas(erme); 
 
             Console.ReadLine();
 
