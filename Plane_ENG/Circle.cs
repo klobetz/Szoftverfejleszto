@@ -2,16 +2,17 @@
 
 namespace Plane_ENG
 {
-    public class Circle : IPlane
+    public class Circle : Plane
     {
         private int radius;
-
+       
         public Circle(int radius)
         {
             this.radius = radius;
+            this.Name = "Kör";
         }
 
-        public double Area()
+        public override double Area()
         {
             return radius * radius * Math.PI;
         }

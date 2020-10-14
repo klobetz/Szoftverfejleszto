@@ -6,10 +6,6 @@ namespace Hazi_feladat
 {
     public class Sorozatok
     {
-        //public Sorozatok()
-        //{
-            
-        //}
         
         public int Bekeres()
         {

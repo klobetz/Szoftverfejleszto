@@ -10,14 +10,11 @@ namespace Hazi_feladat
     {
         static void Main(string[] args)
         {
-            var sorozat = new Sorozatok();
-           
-            var szam = sorozat.Bekeres();            
-           
+            var sorozat = new Sorozatok();           
+            var szam = sorozat.Bekeres();          
             var list = sorozat.Feltoltes(szam);
             
-            Console.Clear();
-            
+            Console.Clear();            
             Console.WriteLine($"Köszönom! A szám amit megadtál: {szam}");
 
             //írasd ki a sorozat utolsó elemét

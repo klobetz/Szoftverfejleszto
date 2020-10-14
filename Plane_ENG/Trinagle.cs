@@ -2,7 +2,7 @@
 
 namespace Plane_ENG
 {
-    public class Trinagle : IPlane
+    public class Trinagle : Plane
     {
         private int basic;
         private int height;
@@ -11,9 +11,10 @@ namespace Plane_ENG
         {
             this.basic = basic;
             this.height = height;
+            this.Name = "Háromszög";
         }
 
-        public double Area()
+        public override double Area()
         {
             return (basic * height) / 2;
         }
