@@ -45,11 +45,11 @@ namespace Objektumok
             //3.1 a függvény sziganatúra
             sikidomok1.Show(85,5);
 
-            //3.2 A függvények paraméter átadása
 
+            //3.2 A függvények paraméter átadása
             //érték szerinti átadás
             var ertek = 2;
-            Console.WriteLine($"ertek {ertek} ");
+            Console.WriteLine($"\nertek {ertek} ");
             sikidomok1.Show(ertek);
             Console.WriteLine($"ertek {ertek} ");
 
@@ -60,20 +60,28 @@ namespace Objektumok
             sikidomok1.Show(referencia);
             Console.WriteLine($"Referencia: {referencia.ertek}");
 
+            //érték típus referencia szerinti átadás
+
+            var ertek2 = 4;
+            Console.WriteLine($"\nertek2 {ertek2} ");
+            sikidomok1.Show(ref ertek2);
+            Console.WriteLine($"ertek2 {ertek2} ");
+
+            //out csak kifelé ad paramétert vagy értéket
+            int ertek3;
+            //sikidomok1.ShowOut(out int ertek3); // VS 2015-től tuti hogy működik így is 
+            sikidomok1.ShowOut(out ertek3);
+            Console.WriteLine($"\nÉrték3: {ertek3} ");
 
 
 
-
-
-
-
-
-
+            //kicsit másként azaz egyben az egész!!!!! de ugan az a menete
             Console.WriteLine();
             referencia = new ReferenciaTipus() { ertek = 3 };
-            Console.WriteLine($"ertek {ertek} Referencia: {referencia.ertek}");
-            sikidomok1.Show(ertek, referencia);
-            Console.WriteLine($"ertek {ertek} Referencia: {referencia.ertek}");
+            ertek2 = 4;
+            Console.WriteLine($"ertek {ertek} Referencia: {referencia.ertek} Érték2: {ertek2} Érték3: {ertek3}");
+            sikidomok1.Show(ertek, referencia,ref ertek2, out ertek3);
+            Console.WriteLine($"ertek {ertek} Referencia: {referencia.ertek} Érték2: {ertek2} Érték3: {ertek3}");
 
 
 

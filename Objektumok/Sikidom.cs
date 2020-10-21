@@ -134,31 +134,40 @@ namespace Objektumok
             Console.WriteLine($"Show referencia: {referencia.ertek}");
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        public void Show(int height, ReferenciaTipus referencia)
+        //érték típus referencia szerinti átadás
+        //ha értéktípust szeretnék referenciatípusként átadni akkor a REF kulcsszót kell használnom!
+        public void Show(ref int width)
         {
-            Console.WriteLine($"Show height: {height} Show referencia: {referencia.ertek}");
+            Console.WriteLine($"Show width: {width} ");
+
+            //először elvégzi a műveletet a két bal oldali érték között majd átadja az értéket
+            // +=, -=, *=, /=  
+            width *= 2;
+            Console.WriteLine($"Show width: {width} ");
+        }
+
+        //out paraméter itt mindenképpen kell értéket adni az out-két deffiniált paraméternek
+        public void ShowOut(out int ertek3)
+        {
+            //out paraméter itt mindenképpen kell értéket adni az out-két deffiniált paraméternek
+            ertek3 = 10;
+        }
+
+
+
+        //kicsit másként azaz egyben az egész!!!!! de ugan az a menete
+        public void Show(int height, ReferenciaTipus referencia, ref int width, out int ertek3)
+        {
+            Console.WriteLine($"Show height: {height} Show referencia: {referencia.ertek} Width: {width} ");            
+            ertek3 = 10;               
             height = height * 2;
             //először elvégzi a műveletet a két bal oldali érték között majd átadja az értéket
             // +=, -=, *=, /=
             //height *= 2;
             referencia.ertek *= 2;
-            Console.WriteLine($"Show height: {height} Show referencia: {referencia.ertek}");
+            width *= 2;
+
+            Console.WriteLine($"Show height: {height} Show referencia: {referencia.ertek} Width: {width} Érték3: {ertek3}");
         }
 
     }
