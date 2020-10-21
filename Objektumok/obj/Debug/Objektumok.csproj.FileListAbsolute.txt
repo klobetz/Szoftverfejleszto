@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\bin\Debug\Objektumok.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\bin\Debug\Objektumok.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\bin\Debug\Objektumok.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\obj\Debug\Objektumok.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\obj\Debug\Objektumok.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\obj\Debug\Objektumok.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Objektumok\obj\Debug\Objektumok.pdb
