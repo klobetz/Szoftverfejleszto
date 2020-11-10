@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_valogatas", "Lista_va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szoveges_file_bekerese", "Szoveges_file_bekerese\Szoveges_file_bekerese.csproj", "{B80DBA14-B894-4A0A-B68A-E7F03713D5CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static kulcsszo_bajaro minta", "static kulcsszo_bajaro minta\static kulcsszo_bajaro minta.csproj", "{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{B80DBA14-B894-4A0A-B68A-E7F03713D5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B80DBA14-B894-4A0A-B68A-E7F03713D5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B80DBA14-B894-4A0A-B68A-E7F03713D5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\static kulcsszo_bajaro minta\bin\Debug\static kulcsszo_bajaro minta.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\static kulcsszo_bajaro minta\bin\Debug\static kulcsszo_bajaro minta.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\static kulcsszo_bajaro minta\bin\Debug\static kulcsszo_bajaro minta.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\static kulcsszo_bajaro minta\obj\Debug\static kulcsszo_bajaro minta.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\static kulcsszo_bajaro minta\obj\Debug\static kulcsszo_bajaro minta.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\static kulcsszo_bajaro minta\obj\Debug\static kulcsszo_bajaro minta.pdb
