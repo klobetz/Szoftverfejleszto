@@ -5,3 +5,10 @@ D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\2_ora\obj\Debug\2_ora.cspro
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\2_ora\obj\Debug\2_ora.csproj.CoreCompileInputs.cache
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\2_ora\obj\Debug\2_ora.exe
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\2_ora\obj\Debug\2_ora.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\bin\Debug\2_ora.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\bin\Debug\2_ora.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\bin\Debug\2_ora.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\obj\Debug\2_ora.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\obj\Debug\2_ora.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\obj\Debug\2_ora.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2_ora\obj\Debug\2_ora.pdb

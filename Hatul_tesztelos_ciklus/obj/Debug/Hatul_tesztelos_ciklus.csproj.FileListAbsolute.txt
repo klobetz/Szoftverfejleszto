@@ -5,3 +5,10 @@ D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\Hatul_tesztelos_ciklus\obj\
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.csproj.CoreCompileInputs.cache
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.exe
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\bin\Debug\Hatul_tesztelos_ciklus.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\bin\Debug\Hatul_tesztelos_ciklus.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\bin\Debug\Hatul_tesztelos_ciklus.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Hatul_tesztelos_ciklus\obj\Debug\Hatul_tesztelos_ciklus.pdb

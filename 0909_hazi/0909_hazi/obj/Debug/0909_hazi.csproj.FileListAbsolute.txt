@@ -12,3 +12,10 @@ D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\0909_hazi\0909_hazi\obj\Deb
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\0909_hazi\0909_hazi\obj\Debug\0909_hazi.csproj.CoreCompileInputs.cache
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\0909_hazi\0909_hazi\obj\Debug\0909_hazi.exe
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\0909_hazi\0909_hazi\obj\Debug\0909_hazi.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\bin\Debug\0909_hazi.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\bin\Debug\0909_hazi.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\bin\Debug\0909_hazi.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\obj\Debug\0909_hazi.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\obj\Debug\0909_hazi.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\obj\Debug\0909_hazi.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\0909_hazi\0909_hazi\obj\Debug\0909_hazi.pdb

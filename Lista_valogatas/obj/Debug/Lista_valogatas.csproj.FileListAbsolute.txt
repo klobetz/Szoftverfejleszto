@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\bin\Debug\Lista_valogatas.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\bin\Debug\Lista_valogatas.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\bin\Debug\Lista_valogatas.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\obj\Debug\Lista_valogatas.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\obj\Debug\Lista_valogatas.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\obj\Debug\Lista_valogatas.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Lista_valogatas\obj\Debug\Lista_valogatas.pdb

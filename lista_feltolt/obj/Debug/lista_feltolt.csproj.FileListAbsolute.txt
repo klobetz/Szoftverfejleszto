@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\bin\Debug\lista_feltolt.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\bin\Debug\lista_feltolt.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\bin\Debug\lista_feltolt.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\obj\Debug\lista_feltolt.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\obj\Debug\lista_feltolt.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\obj\Debug\lista_feltolt.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\lista_feltolt\obj\Debug\lista_feltolt.pdb

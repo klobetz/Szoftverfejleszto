@@ -5,3 +5,10 @@ D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\eloltesztelos_ciklus\obj\De
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.csproj.CoreCompileInputs.cache
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.exe
 D:\C#projektek\Szoftverfejelsztok\Szoftverfejlesztes\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\bin\Debug\eloltesztelos_ciklus.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\bin\Debug\eloltesztelos_ciklus.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\bin\Debug\eloltesztelos_ciklus.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\eloltesztelos_ciklus\obj\Debug\eloltesztelos_ciklus.pdb

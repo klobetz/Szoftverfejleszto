@@ -84,8 +84,10 @@ namespace Objektumok
             Console.WriteLine($"ertek {ertek} Referencia: {referencia.ertek} Érték2: {ertek2} Érték3: {ertek3}");
 
 
-
-
+            //függvények paramétereinek alapértelezett érték adása
+            sikidomok1.Show(); //figyelem! ha nem adok meg paramétert akkor ezt fogja hívni
+            sikidomok1.Show(width:9, name:"Akármi");//ebben az esetben nem kell magadni a height paramétert 
+            //a fordíto megtalálja, mert van alapértelmezetten megadott értéke
 
 
             Console.ReadLine();

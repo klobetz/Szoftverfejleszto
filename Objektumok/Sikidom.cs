@@ -170,5 +170,14 @@ namespace Objektumok
             Console.WriteLine($"Show height: {height} Show referencia: {referencia.ertek} Width: {width} Érték3: {ertek3}");
         }
 
+        //függvények paramétereinek alapértelezett érték adása
+        public void Show(int height=5, int width=7, string name="név")
+        {
+
+        }
+
+
+
+
     }
 }

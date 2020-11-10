@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\bin\Debug\Szoveges_file_bekerese.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\bin\Debug\Szoveges_file_bekerese.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\bin\Debug\Szoveges_file_bekerese.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\obj\Debug\Szoveges_file_bekerese.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\obj\Debug\Szoveges_file_bekerese.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\obj\Debug\Szoveges_file_bekerese.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Szoveges_file_bekerese\obj\Debug\Szoveges_file_bekerese.pdb
