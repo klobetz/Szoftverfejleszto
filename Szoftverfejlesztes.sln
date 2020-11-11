@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szoveges_file_bekerese", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static kulcsszo_bajaro minta", "static kulcsszo_bajaro minta\static kulcsszo_bajaro minta.csproj", "{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fajlkezekes", "Fajlkezekes\Fajlkezekes.csproj", "{2AA1AC98-E456-408F-9C86-5F1E64B90A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fajlkezeles_2", "Fajlkezeles_2\Fajlkezeles_2.csproj", "{16BB8D50-01B6-42FD-A3DF-F11E96691E8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB65D087-2A84-45A7-BAFD-48F6FA5AB796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA1AC98-E456-408F-9C86-5F1E64B90A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA1AC98-E456-408F-9C86-5F1E64B90A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA1AC98-E456-408F-9C86-5F1E64B90A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA1AC98-E456-408F-9C86-5F1E64B90A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BB8D50-01B6-42FD-A3DF-F11E96691E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BB8D50-01B6-42FD-A3DF-F11E96691E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BB8D50-01B6-42FD-A3DF-F11E96691E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BB8D50-01B6-42FD-A3DF-F11E96691E8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

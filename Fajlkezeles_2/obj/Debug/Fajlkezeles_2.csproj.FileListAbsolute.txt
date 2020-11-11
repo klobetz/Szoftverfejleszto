@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\bin\Debug\Fajlkezeles_2.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\bin\Debug\Fajlkezeles_2.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\bin\Debug\Fajlkezeles_2.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\obj\Debug\Fajlkezeles_2.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\obj\Debug\Fajlkezeles_2.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\obj\Debug\Fajlkezeles_2.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezeles_2\obj\Debug\Fajlkezeles_2.pdb

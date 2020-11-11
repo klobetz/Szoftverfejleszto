@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\bin\Debug\Fajlkezekes.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\bin\Debug\Fajlkezekes.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\bin\Debug\Fajlkezekes.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\obj\Debug\Fajlkezekes.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\obj\Debug\Fajlkezekes.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\obj\Debug\Fajlkezekes.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\Fajlkezekes\obj\Debug\Fajlkezekes.csprojAssemblyReference.cache

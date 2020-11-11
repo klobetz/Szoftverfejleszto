@@ -1,0 +1,14 @@
+Hozd létre a(z) „C programozás” nevű lapot ezen a wikin! (Hivatkozások a lapra)
+C++
+
+A C++ egy általános célú, magas szintű programozási nyelv. Támogatja a procedurális, az objektumorientált és a generikus programozást, valamint az adatabsztrakciót
+64 KB (6 434 szó) - 2020. június 21., 17:54
+C (programozási nyelv)
+
+A C egy általános célú programozási nyelv, melyet Dennis Ritchie fejlesztett ki Ken Thompson segítségével 1969 és 1973 között a UNIX rendszerekre AT&T
+64 KB (6 747 szó) - 2020. április 15., 19:25
+C Sharp
+
+keretrendszer részeként kifejlesztett objektumorientált programozási nyelv. A nyelv alapjául a C++ és a Java szolgált. A 90-es években a Microsoft a saját
+30 KB (3 149 szó) - 2020. október 17., 20:05
+Objective-C

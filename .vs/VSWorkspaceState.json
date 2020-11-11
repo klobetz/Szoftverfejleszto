@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Objektumok"
+    "\\Fajlkezekes",
+    "\\Fajlkezekes\\bin",
+    "\\Fajlkezekes\\bin\\Debug",
+    "\\Objektumok\\bin"
   ],
-  "SelectedNode": "\\Objektumok\\Objektumok.csproj",
+  "SelectedNode": "\\Fajlkezekes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
