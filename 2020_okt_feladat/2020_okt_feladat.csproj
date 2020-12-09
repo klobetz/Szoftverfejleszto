@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E5F547A4-D0B8-4926-BEF2-781647AF059B}</ProjectGuid>
+    <ProjectGuid>{C6163A42-54F1-4B71-89CE-428A69D12EFC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Plane_ENG</RootNamespace>
-    <AssemblyName>Plane_ENG</AssemblyName>
+    <RootNamespace>_2020_okt_feladat</RootNamespace>
+    <AssemblyName>2020_okt_feladat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circle.cs" />
-    <Compile Include="IPlane.cs" />
-    <Compile Include="Plane.cs" />
+    <Compile Include="Adatfelosztas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Square.cs" />
-    <Compile Include="Trinagle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
-    <None Include="ClassDiagram2.cd" />
-    <None Include="ClassDiagram3.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lista.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

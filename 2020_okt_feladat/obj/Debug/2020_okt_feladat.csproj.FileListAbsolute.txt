@@ -1,0 +1,8 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\bin\Debug\lista.txt
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\bin\Debug\2020_okt_feladat.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\bin\Debug\2020_okt_feladat.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\bin\Debug\2020_okt_feladat.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\obj\Debug\2020_okt_feladat.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\obj\Debug\2020_okt_feladat.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\obj\Debug\2020_okt_feladat.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\2020_okt_feladat\obj\Debug\2020_okt_feladat.pdb

@@ -1,0 +1,7 @@
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\bin\Debug\metjelentes.exe.config
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\bin\Debug\metjelentes.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\bin\Debug\metjelentes.pdb
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\obj\Debug\metjelentes.csprojAssemblyReference.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\obj\Debug\metjelentes.csproj.CoreCompileInputs.cache
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\obj\Debug\metjelentes.exe
+D:\C#projektek\Szoftverfejelsztok\GitHub_szoftveres\metjelentes\obj\Debug\metjelentes.pdb
